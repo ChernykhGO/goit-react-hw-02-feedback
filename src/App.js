@@ -36,7 +36,7 @@ class App extends React.Component {
     // console.log(countPositiveFeedbackPercentage);
 
     const allReviews = [
-      { name: "good", color: "light green" },
+      { name: "good", color: "lime" },
       { name: "neutral", color: "yellow" },
       { name: "bad", color: "red" },
     ];
